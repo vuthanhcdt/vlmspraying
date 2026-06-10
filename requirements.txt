@@ -1,0 +1,7 @@
+numpy==2.2.6
+matplotlib==3.10.6
+scipy==1.16.3
+google-genai==1.56.0
+opencv-python==4.12.0.88
+requests==2.32.5
+openai>=1.0.0
